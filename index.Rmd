@@ -1,7 +1,7 @@
 ---
 title: "Unpacking polarization: Antagonism and Alignment in Signed Networks of Online Interaction"
-author: "David Garcia <br> *University of Konstanz, Complexity Science Hub Vienna*"
-date: "13.09.2023, MMM ETH Workshop <br> Slides vailable at: dgarcia.eu/UnpackingPolarization"
+author: "David Garcia, University of Konstanz <br><br> with Emma Fraxanet, Max Pellert,<br> Simon Schweighofer & Vicenç Gómez"
+date: "13.09.2023, MMM ETHZ Workshop <br> Slides vailable at: dgarcia.eu/UnpackingPolarization"
 output:
   xaringan::moon_reader:
     lib_dir: libs 
@@ -37,11 +37,6 @@ layout: true
 
 ---
 
-background-image: url(figures/AboutUS.svg)
-background-size: 98%
-
----
-
 # Mitigating Online Polarization
 
 ![:scale 100%](figures/papersIntro.png)
@@ -57,17 +52,13 @@ background-size: 98%
 </font>
 
 ---
-# Unpacking Polarization
-.center[![:scale 65%](figures/AntagonismAlignment.png)]
- <font size="5">
-[Unpacking polarization: Antagonism and Alignment in Signed Networks of Online Interaction. E. Fraxanet, M. Pellert, S. Schweighofer, V. Gómez, D. Garcia. Arxiv preprint (2023)](https://arxiv.org/abs/2307.06571)
- </font>
+# Unpacking (Affective) Polarization
+.center[![:scale 80%](figures/AntagonismAlignment.png)]
 ---
-
 # Data on Signed Online Discussions
-
-.center[![:scale 90%](figures/SignedPlatforms.png)]
+.center[![:scale 85%](figures/SignedPlatforms.png)]
 Birdwatch (now Community Notes) and DerStandard comments (Austrian news)
+They contain political discussions with explicit signed, timestamped interactions
 ---
 
 ## From Interactions to Relations to Polarization
